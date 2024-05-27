@@ -1,6 +1,6 @@
 | Address Range | Purpose |
 |---------------|---------|
-| 0x00000 - 0x003FF | Interrupt Vectors |
+| 0x00000 - 0x003FF | Interrupt Vector Table |
 | 0x00400 - 0x004FF | BIOS Data Area |
 | 0x00500 - 0x009FF | Free Space |
 | 0x00A00 - 0x00BFF | Video Memory (Text Mode) |
