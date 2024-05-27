@@ -1,1 +1,1 @@
-# x16-os-cheatsheet
+# Cheatsheet on creating x16 OS
